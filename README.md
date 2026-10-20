@@ -9,10 +9,10 @@
 اسکن هوشمند یک‌کلیکی · پاکسازی · افزایش سرعت و FPS بازی · تعمیر ویندوز · درایور · شبکه و DNS · سلامت دیسک · دستیار آفلاین «هومی»
 
 [![وب‌سایت](https://img.shields.io/badge/وب‌سایت-homioptimizer.ghalambartar.com-7c83ff?style=for-the-badge)](https://homioptimizer.ghalambartar.com/)
-[![دانلود](https://img.shields.io/badge/دانلود_رایگان-ویندوز%2010%20و%2011-2ee6d6?style=for-the-badge)](https://homioptimizer.ghalambartar.com/download/HomiOptimizer-0.2.1-setup.exe)
+[![دانلود](https://img.shields.io/badge/دانلود_رایگان-ویندوز%2010%20و%2011-2ee6d6?style=for-the-badge)](https://homioptimizer.ghalambartar.com/download/HomiOptimizer-0.2.2-setup.exe)
 [![صفحه معرفی](https://img.shields.io/badge/صفحه_معرفی-GitHub%20Pages-4338ca?style=for-the-badge)](https://amir2139.github.io/HomiOptimizer/)
 
-**[🌐 مشاهده‌ی صفحه‌ی معرفی »](https://amir2139.github.io/HomiOptimizer/)** &nbsp;•&nbsp; **[⬇️ دانلود رایگان »](https://homioptimizer.ghalambartar.com/download/HomiOptimizer-0.2.1-setup.exe)**
+**[🌐 مشاهده‌ی صفحه‌ی معرفی »](https://amir2139.github.io/HomiOptimizer/)** &nbsp;•&nbsp; **[⬇️ دانلود رایگان »](https://homioptimizer.ghalambartar.com/download/HomiOptimizer-0.2.2-setup.exe)**
 
 </div>
 
@@ -67,7 +67,7 @@
 
 - 🌐 سایت رسمی: **[homioptimizer.ghalambartar.com](https://homioptimizer.ghalambartar.com/)**
 - 📄 صفحه‌ی معرفی (GitHub Pages): **[amir2139.github.io/HomiOptimizer](https://amir2139.github.io/HomiOptimizer/)**
-- ⬇️ دانلود مستقیم: **[HomiOptimizer-0.2.1-setup.exe](https://homioptimizer.ghalambartar.com/download/HomiOptimizer-0.2.1-setup.exe)**
+- ⬇️ دانلود مستقیم: **[HomiOptimizer-0.2.2-setup.exe](https://homioptimizer.ghalambartar.com/download/HomiOptimizer-0.2.2-setup.exe)**
 
 ---
 
